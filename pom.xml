@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://35.183.115.11:8081/repository/ebay_proj_SNAP/</url>
+	      <url>http://35.183.115.11:8081/repository/ebay_proj_SNAP/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
