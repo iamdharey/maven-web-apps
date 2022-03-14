@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.183.115.11:8081/repository/ebay_proj_RELEASE/</url>
+	      <url>http://172.31.6.189:8081/repository/ebay_proj_RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.183.115.11:8081/repository/ebay_proj_SNAP/</url>
+	      <url>http://172.31.6.189:8081/repository/ebay_proj_SNAP/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
